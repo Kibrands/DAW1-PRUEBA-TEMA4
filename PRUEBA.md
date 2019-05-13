@@ -12,7 +12,8 @@ _13-05-2019_
 
 ## EJERCICIO 2
 
-> Pasos a seguir:
+Pasos a seguir:
+
 1. Escribir el respectivo javadoc para la clase y sus métodos `/** */`
 2. Click derecho sobre el proyecto y click en Generate Javadoc
 3. El fichero html se guarda en la carpeta build/docs/javadoc/zoo del proyecto
@@ -32,7 +33,14 @@ _13-05-2019_
 
 ## EJERCICIO 5
 
-
+![Ejercicio 5](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/5.png)
 
 ## EJERCICIO 6
+
+![Ejercicio 6](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/6.png)
+
 ## EJERCICIO 7
+
+![Ejercicio 7](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/7.png)
+
+> He añadido un commit final para subir este archivo completo.
