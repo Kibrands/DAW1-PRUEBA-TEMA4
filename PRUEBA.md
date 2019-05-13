@@ -8,7 +8,8 @@ _13-05-2019_
 
 ## EJERCICIO 1
 
-![Ejercicio 1](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/1.png)
+[imagen1]: img/1.png
+![Ejercicio 1][imagen1]
 
 ## EJERCICIO 2
 
@@ -18,29 +19,38 @@ Pasos a seguir:
 2. Click derecho sobre el proyecto y click en Generate Javadoc
 3. El fichero html se guarda en la carpeta build/docs/javadoc/zoo del proyecto
 
-![Ejercicio 2](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/2.png)
+[imagen2]: img/2.png
+![Ejercicio 2][imagen2]
 
 ## EJERCICIO 3
 
-![Ejercicio 3.1](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/3-1.png)
-![Ejercicio 3.2](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/3-2.png)
-![Ejercicio 3.3](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/3-3.png)
-![Ejercicio 3.4](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/3-4.png)
+[imagen31]: img/3-1.png
+[imagen32]: img/3-2.png
+[imagen33]: img/3-3.png
+[imagen34]: img/3-4.png
+![Ejercicio 3.1][imagen31]
+![Ejercicio 3.2][imagen32]
+![Ejercicio 3.3][imagen33]
+![Ejercicio 3.4][imagen34]
 
 ## EJERCICIO 4
 
-![Ejercicio 4](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/4.png)
+[imagen4]: img/4.png
+![Ejercicio 4][imagen4]
 
 ## EJERCICIO 5
 
-![Ejercicio 5](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/5.png)
+[imagen5]: img/5.png
+![Ejercicio 5][imagen5]
 
 ## EJERCICIO 6
 
-![Ejercicio 6](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/6.png)
+[imagen6]: img/6.png
+![Ejercicio 6][imagen6]
 
 ## EJERCICIO 7
 
-![Ejercicio 7](https://github.com/kibrands/DAW1-PRUEBA-TEMA4/img/7.png)
+[imagen7]: img/7.png
+![Ejercicio 7][imagen7]
 
 > He añadido un commit final para subir este archivo completo.
